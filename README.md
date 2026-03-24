@@ -1,4 +1,5 @@
 # Movie-Recommender-with-Sentiment-Intelligence
+LIVE : https://movie-recommender-with-sentiment-intelligence-abhishek.streamlit.app/
 
 The **Movie Recommendation with Sentiment Analysis System** is an innovative project that combines the power of content-based movie recommendation with sentiment analysis of reviews. The system enhances the movie exploration process by analyzing reviews related to the selected movie. It employs a pre-trained machine learning model to determine whether the reviews are positive or negative in nature, providing users with rapid insights into the overall reception of the movie.
 
