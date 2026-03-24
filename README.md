@@ -16,8 +16,8 @@ The **Movie Recommendation with Sentiment Analysis System** is an innovative pro
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your_username/movie-recommendation-system.git
-   cd movie-recommendation-system
+   git clone https://github.com/AbhishekCodingPrograms/Movie-Recommender-with-Sentiment-Intelligence.git
+   cd Movie-Recommender-with-Sentiment-Intelligence
    ```
 
 2. **Install required dependencies:**
